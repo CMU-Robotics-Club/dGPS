@@ -161,12 +161,12 @@
 <wire x1="0" y1="38.1" x2="0" y2="0" width="0.127" layer="21"/>
 <wire x1="0" y1="0" x2="-38.1" y2="0" width="0.127" layer="21"/>
 <wire x1="-38.1" y1="0" x2="-38.1" y2="38.1" width="0.127" layer="21"/>
-<text x="-17.78" y="12.7" size="1.905" layer="21" font="vector" rot="SR90">NS-HP-GL</text>
+<text x="-17.78" y="12.065" size="2.54" layer="21" rot="SR90">NS-HP-GL</text>
 <wire x1="-30.48" y1="30.48" x2="-30.48" y2="7.62" width="0.127" layer="21"/>
 <wire x1="-30.48" y1="7.62" x2="-7.62" y2="7.62" width="0.127" layer="21"/>
 <wire x1="-30.48" y1="30.48" x2="-7.62" y2="30.48" width="0.127" layer="21"/>
 <wire x1="-7.62" y1="30.48" x2="-7.62" y2="7.62" width="0.127" layer="21"/>
-<text x="-8.255" y="0.635" size="1.27" layer="21" font="vector">VCC33</text>
+<text x="-7.62" y="0.635" size="1.27" layer="21">VCC33</text>
 <circle x="-33.02" y="35.56" radius="1.27" width="0.254" layer="21"/>
 </package>
 </packages>
